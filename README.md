@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**r0qexy/r0qexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I'm Matheus Lima (AKA Santi)! 
+ A little more about me...
+const santi = {
+    pronouns: "He" | "Him",
+    code: ["Lua", "Javascript", "C/C++", "ReactJS", "Typescript", "Python", "Squirrel", "php"],
+    askMeAbout: ["games", "tech", "theories", "astronomy"],
+    technologies: {
+        backEnd: {
+            js: ["node"],
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["MySQL", "sqlite", "MongoDB"],
+    },
+    architecture: ["Server Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "I am tech leader in Destiny Community",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
