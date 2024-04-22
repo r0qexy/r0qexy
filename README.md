@@ -6,9 +6,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const santi = {
+const r0qexy = {
     pronouns: "He" | "Him",
-    code: ["Lua", "Javascript", "C/C++", "ReactJS", "Typescript", "Python", "Squirrel", "php"],
+    code: ["Lua", "Javascript", "C/C++", "ReactJS", "Typescript", "Python", "php"],
     askMeAbout: ["games", "tech", "theories", "astronomy"],
     technologies: {
         backEnd: {
@@ -18,7 +18,7 @@ const santi = {
         databases: ["MySQL", "sqlite", "MongoDB"],
     },
     architecture: ["Server Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am tech leader in Destiny Community",
+    currentProject: "I am the founder of foxcheat.gg.",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
